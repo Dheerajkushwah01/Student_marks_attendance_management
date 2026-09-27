@@ -1,4 +1,4 @@
-========== STUDENT MARKS & ATTENDANCE MANAGEMENT SYSTEM ============
+===== STUDENT MARKS & ATTENDANCE MANAGEMENT SYSTEM =====
 
 1. OVERVIEW :
               This is a small program that keeps a student's marks and attendance in one place. You add a student,
